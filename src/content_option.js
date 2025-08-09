@@ -27,7 +27,7 @@ const dataabout = {
                 maintainable code, mentoring teams, and driving agile developmentpractices. Whether itʼs \
                 refining an application for speed and scalability or leading a team through \
                 complexmigrations, I thrive on solving problems and delivering high-quality software that \
-                makes an impact. I can carry out any task assinged me without hesitation quilkly.",
+                makes an impact. I can carry out any task assinged me without hesitation quilkly. If you hope my photo, press F5 please",
 };
 
 const skills = [
